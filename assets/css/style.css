@@ -17,3 +17,6 @@ nav .navbar-brand img{
  #Destacados .card-img-top{
     height: 15em;
  }
+.bg-info,.bg-transpatent{
+    transition: all 1s ease;
+}
