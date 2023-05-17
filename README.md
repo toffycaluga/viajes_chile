@@ -1,6 +1,4 @@
-# Título del Proyecto
-
-Viajes Chile, 
+# Viajes Chile
 los mejores destinos para viajar por chile
 ## Descripción 
 Proyecto realizado para medir conocimientos en htl ,css, Javascript,
