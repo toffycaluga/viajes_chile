@@ -2,3 +2,7 @@
 body{
     background: #000;
 }
+
+nav .navbar-brand img{
+    width: 1.5em;
+}
