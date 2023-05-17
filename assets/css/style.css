@@ -1,4 +1,7 @@
-
+html{
+    scroll-behavior: smooth;
+    scroll-padding:90px;
+}
 body{
     background: #000;
     color:#fff;
