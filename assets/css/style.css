@@ -11,3 +11,6 @@ nav .navbar-brand img{
 .carousel-inner{
     max-height:46rem ;
 }
+ #Destacados .card-img-top{
+    height: 15em;
+ }
